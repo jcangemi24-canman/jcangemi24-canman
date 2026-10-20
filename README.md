@@ -3,7 +3,7 @@
 **Strategic finance by day — Kraken (Onchain pod). Builder the rest of the time.**
 Goldman Sachs IB → Lili → DriveWealth (Corp Dev & Strategy) → Kraken. I build the tools I wish existed, mostly with AI in the loop: products, dashboards, and automations that run every day.
 
-<a href="https://jonnycangemi.com/projects#glasshouse"><img src="./assets/hero-glasshouse.png" width="32%" alt="glasshouse owner cockpit — YouTube KPIs and watch-hours trend"></a>
+<a href="https://jonnycangemi.com/projects#glasshouse"><img src="./assets/hero-glasshouse.png" width="32%" alt="glasshouse owner cockpit — YouTube KPIs and watch-hours trend (demo data)"></a>
 <a href="https://jonnycangemi.com/projects#portfolio"><img src="./assets/hero-portfolio.png" width="32%" alt="Portfolio Automation dashboard (demo data)"></a>
 <a href="https://jonnycangemi.com/projects#beacon"><img src="./assets/hero-beacon.png" width="32%" alt="Beacon job search across 12,000+ companies"></a>
 
@@ -14,7 +14,7 @@ Goldman Sachs IB → Lili → DriveWealth (Corp Dev & Strategy) → Kraken. I bu
 ## Featured builds
 
 ### glasshouse — YouTube automation system
-![glasshouse cockpit](./assets/hero-glasshouse.png)
+![glasshouse cockpit — demo data](./assets/hero-glasshouse.png)
 A YouTube ambient-music channel that runs like a business: a production pipeline on a Mac Mini, a Telegram approval gate (nothing publishes without a human tap), and a custom owner cockpit for watch time, releases, and audience.
 Daily 8 AM ET releases · 12h lives · titles in 15 languages · [Watch on YouTube](https://www.youtube.com/@glasshousefocus) · *Code private — Ensora Ventures*
 
@@ -29,7 +29,7 @@ Multi-source job search and application pipeline for a friends-and-family worksp
 **Live:** [beaconjobtracker.jonnycangemi.com](https://beaconjobtracker.jonnycangemi.com) · *Code private*
 
 ### Tournament of Gods — simulated paper trading
-![Tournament of Gods scorecard](./assets/hero-gods.png)
+![Tournament of Gods scorecard — paper-only demo snapshot](./assets/hero-gods.png)
 Autonomous AI traders (SEKHMET · THOTH · ANUBIS) compete across 6 paper books and 2 arenas — every decision logged and explained. **Paper only: no real trades, ever.** Next: the winning strategy graduates to a supervised agentic paper bot.
 *Code private*
 
