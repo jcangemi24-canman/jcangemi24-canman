@@ -35,7 +35,7 @@ Autonomous AI traders (SEKHMET · THOTH · ANUBIS) compete across 6 paper books 
 
 ### Also built
 - **AI Usage Meter** — native macOS menu-bar widget for Claude + Codex capacity. Local-first, 7 themes. *(Swift)*
-- **Miami Apt Tracker** — every Brickell Key rental tracked like a comp set: 38 buildings, price history, refreshed 2× daily. Screenshots on the site.
+- **Miami Apt Tracker** — every Brickell and Downtown rental tracked like a comp set: 38 buildings, price history, refreshed 2× daily. Screenshots on the site.
 - **jonnycangemi.com** — this profile's home site: Next.js 15, a custom pixel-scene engine, dark/light worlds.
 
 ---
